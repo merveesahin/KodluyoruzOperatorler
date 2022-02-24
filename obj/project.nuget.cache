@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDOXcgShD+5puHdMiIsrCFQCVGyoDm1DUtVLw6pD5JfQdHagTiKRaFxV+ciNdls8ma8sy+BCprF1el366I00Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merves\\Desktop\\Pratikler\\Operatorler\\Operatorler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
